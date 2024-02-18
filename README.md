@@ -24,6 +24,7 @@ jupyter lab
 Navigate to the iris_classification.ipynb notebook and open it.
 Notebook Overview
 The iris_classification.ipynb notebook contains the following sections:
+Run all code at once
 Data Loading: How to load the Iris dataset using scikit-learn.
 Data Exploration and Visualization: Insights into the dataset through various plots.
 Preprocessing: Preparing the data for modeling.
