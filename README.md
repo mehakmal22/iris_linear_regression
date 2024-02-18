@@ -39,3 +39,4 @@ Conclusion: Summary of findings and potential next steps.
 Usage
 Follow the instructions and code cells in the notebook from top to bottom. Each section is accompanied by markdown explanations and code comments to guide you through the analysis and modeling process.
 Script:
+https://github.com/mehakmal22/iris_linear_regression/blob/main/iris_classification.ipynb?short_path=8e54fb8
