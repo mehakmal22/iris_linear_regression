@@ -9,7 +9,7 @@ To get started, clone this repository to your local machine using Git:
 git clone https://github.com/mehakmal22/iris_linear_regression.git
 cd your-repository
 Set Up a Virtual Environment
-It's a good practice to create a virtual environment for your project. Use the following commands to create and activate one:
+Use the following commands to create and activate one:
 python -m venv venv
 # On Windows
 venv\Scripts\activate
